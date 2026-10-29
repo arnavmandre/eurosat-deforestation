@@ -2,3 +2,4 @@ EuroSAT_RGB/
 *.pth
 *.tif
 .ipynb_checkpoints/
+.venv/
