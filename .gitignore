@@ -3,3 +3,14 @@ EuroSAT_RGB/
 *.tif
 .ipynb_checkpoints/
 .venv/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+overleaf_upload.zip
