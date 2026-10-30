@@ -107,4 +107,3 @@ Notebooks 04–06 download satellite and GFW data on the fly; no accounts are ne
 - **Sentinel-2** imagery: ESA Copernicus, accessed via [Element 84 Earth Search](https://earth-search.aws.element84.com/v1).
 - Mine locations: [Global Energy Monitor](https://www.gem.wiki/) wiki.
 
-**AI use:** the code, notebooks and this README were written with an AI coding assistant (Claude, by Anthropic), working under my direction. I set up the environment, ran every notebook, checked the outputs, and worked through the questions in each notebook.
